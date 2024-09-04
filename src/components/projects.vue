@@ -49,7 +49,7 @@
             </div>
             <div class="projects" id="youtube">
                 <img src="../assets/youtube.png">
-                <p class="title">Youtube Transcript Summarizer</p>
+                <p class="title">Youtube Summarizer</p>
                 <div class="techs">
                     <button>Python</button>
                     <button>NLTK</button>
@@ -118,6 +118,7 @@
     height: 25px;
     border-radius: 5px;
     font-family: monospace;
+    margin-top:5px;
 }
 .desc{
     height: 130px;
