@@ -31,7 +31,7 @@ function scrollTo(refName){
     height: 100%;
     color: #ad84c1 ;
     background: rgba(0, 0, 0, 0.1);
-    border-radius: 50px;
+    border-radius: 30px;
     box-shadow: 0 4px 30px rgba(6, 21, 34, 0.3);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
