@@ -1,0 +1,26 @@
+body{
+    position: absolute;
+    background-color: #021526;
+    width: 100%;
+    top: 0;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    font-family: monospace;
+  }
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #021526;
+    
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #C8ACD6;
+  }
