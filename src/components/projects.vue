@@ -150,6 +150,11 @@
     font-size: 1.2rem;
     font-weight: 500;
     color:#F4EAE0;
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+    width:100%;
 }
 @media screen and (max-width:700px){
     .desc{
