@@ -88,7 +88,7 @@
 }
 .skill{
     display: flex;
-    width:40%;
+    width:45%;
     margin-right: 5%;
     flex-direction: column;
     align-items: center;
