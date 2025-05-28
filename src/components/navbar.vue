@@ -71,4 +71,13 @@ li a{
 li a:hover{
     color: #021526;
 }
+    
+@media screen and (max-width:375px){
+  .container{
+    width:100%;
+  }
+  .navmenu li{
+    margin: 0 auto;
+  }
+}
 </style>
