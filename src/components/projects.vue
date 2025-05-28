@@ -88,7 +88,7 @@
     justify-content: center;
 }
 .projects{
-    width:70%;
+    width:90%;
     height:500px;
     margin-bottom: 50px;
     display: flex;
